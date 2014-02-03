@@ -19,4 +19,4 @@ plt.ylabel('rel. performance gain')
 plt.title('String substitution - Speed improvements')
 
 #plt.show()
-plt.savefig(‘./string_subst_bar.png')
+plt.savefig('./string_subst_bar.png')

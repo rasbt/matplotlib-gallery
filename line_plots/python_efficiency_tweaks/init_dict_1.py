@@ -26,4 +26,4 @@ plt.title('Dictionary initialization 1')
 plt.legend(['init_dict_1.py', 'init_dict_2.py'], loc='upper left')
 
 #plt.show()
-plt.savefig(‘./init_dict_1.png')
+plt.savefig(./init_dict_1.png')
