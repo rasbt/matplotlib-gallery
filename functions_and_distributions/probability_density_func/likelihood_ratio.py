@@ -26,6 +26,6 @@ plt.title('Likelihood ratio of 2 probability density functions')
 plt.ylabel('p(x | w1) / p(x | w2)')
 plt.xlabel('random variable x')
 
-plt.figtext(.5,.85,'p(x|w1) ~ N(15,5), p(x|w2) ~ N(20,10)', fontsize=12, ha='center')
+plt.figtext(.5,.85,'p(x|w1) ~ N(30,10), p(x|w2) ~ N(40,20)', fontsize=12, ha='center')
 
 plt.savefig('./likelihood_ratio.png')
