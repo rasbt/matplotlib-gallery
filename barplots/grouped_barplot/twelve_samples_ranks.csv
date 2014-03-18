@@ -1,0 +1,14 @@
+label,var1,var2,var3
+sample1,1,3,2
+sample2,3,2,1
+sample3,2,1,3
+sample4,3,1,2
+sample5,3,2,1
+sample6,2,3,1
+sample7,2,3,1
+sample8,2,1,3
+sample9,1,2,3
+sample10,3,1,2
+sample11,3,2,1
+sample12,3,2,1
+# ranked by performance (1 = best, 3 = worst),,,
