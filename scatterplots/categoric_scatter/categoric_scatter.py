@@ -34,9 +34,9 @@ def read_csv_(file_loc):
                 line = line.strip().split(',')
                 print('line: ',line)
                 labels.append(line[0])
-                var1.append(line[1])
-                var2.append(line[2])
-                var3.append(line[3])                
+                var1.append(float(line[1]))
+                var2.append(float(line[2]))
+                var3.append(float(line[3]))                
     return labels, var1, var2, var3  
 
 def plot_rmsdplot(labels, var1, var2, var3):
@@ -47,19 +47,27 @@ def plot_rmsdplot(labels, var1, var2, var3):
     
     fig, ax = plt.subplots()
     
+    # plot annotations
     ax.set_ylabel('labels')
     ax.set_xlabel('X')
-    ax.set_title('categoric scatterplot')
+    ax.set_title('categoric scatterplot with mean values')
     ax.set_yticks(ind + width)
     ax.set_yticklabels(labels)
     
+    # scatterplots
     plt.scatter(var1, ind, color='r', alpha=0.5, marker='x', s=40)
     plt.scatter(var2, ind, color='b', alpha=0.5, marker='^', s=40)
     plt.scatter(var3, ind, color='g', alpha=0.5, marker='o', s=40)
     
+    # plotting mean values
+    plt.axvline(np.mean(var1), color='r', alpha=0.8, linestyle=':', linewidth=2)
+    plt.axvline(np.mean(var2), color='g', alpha=0.8, linestyle=':', linewidth=2)
+    plt.axvline(np.mean(var3), color='b', alpha=0.8, linestyle=':', linewidth=2)
+
+    # dimensions and legend
     plt.xlim(-1,12)
     plt.ylim(-1, N+1)
-    plt.legend(labels, loc='upper right')
+    plt.legend(['s1 mean', 's2 mean', 's3 mean'] + labels, loc='upper right')
     plt.show()
 
 data_file = './twelve_samples.csv'    

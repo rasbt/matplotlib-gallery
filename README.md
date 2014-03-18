@@ -53,6 +53,7 @@ Examples of matplotlib codes and plots
 <br>
 #### bar plot w. error bars - python_efficiency_tweaks
 
+<img src="url" alt="alt text" style="width:whatever;height:whatever">
 ![barplots/python_efficiency_tweaks/string_subst_bar.png](barplots/python_efficiency_tweaks/string_subst_bar.png)
 
 Script: [barplots/python_efficiency_tweaks/string_subst_bar.py](barplots/python_efficiency_tweaks/string_subst_bar.py)
