@@ -7,23 +7,24 @@ Examples of matplotlib codes and plots
 <hr>
 <hr>
 
-### Bar plots
+### [Bar plots](#barplots)
 &#8226; [barplot w. error bars](#errorbars1)<br>
 &#8226; [grouped_barplot](#grouped_barplot1)<br>
 
-### Scatterplots
+### [Scatter plots](#scatterplots)
 &#8226; [2D Scatterplot](#2d_scatterplot)<br>
 &#8226; [3D Scatterplot](#3d_scatterplot)<br>
 &#8226; [Categoric Scatterplot](#categoric_scatter)<br>
+&#8226; [Quadratic Decision Boundary](#quadratic_decbound1)<br>
 
-### Line Plots
+### [Line plots](#lineplots)
 &#8226; [init_dict_1](#init_dict_1)<br>
 
-### Histograms
+### [Histograms](#histograms)
 &#8226; [flower_histo](#flower_histo)<br>
 &#8226; [methyl_charges](#methyl_charges)<br>
 
-### Functions and Distributions
+### [Functions and distributions](#functionsdistributions)
 &#8226; [probability_density_func](#probability_density_func)<br>
 &#8226; [likelihood_ratio](#likelihood_ratio)<br>
 
@@ -46,7 +47,7 @@ Examples of matplotlib codes and plots
 <br>
 <br>
 
-
+<a name="barplots"></a>
 # Bar plots
 
 ####Sections
@@ -87,13 +88,14 @@ Script: [barplots/grouped_barplot/grouped_barplot.py](barplots/grouped_barplot/g
 
 
 
-
-# Scatterplots
+<a name="scatterplots"></a>
+# Scatter plots
 
 ####Sections
 &#8226; [2D Scatterplot](#2d_scatterplot)<br>
 &#8226; [3D Scatterplot](#3d_scatterplot)<br>
 &#8226; [Categoric Scatterplot](#categoric_scatter)<br>
+&#8226; [Quadratic Decision Boundary](#quadratic_decbound1)<br>
 
 -------
 <a name="2d_scatterplot"></a>
@@ -130,19 +132,23 @@ Script: [scatterplots/categoric_scatter/categoric_scatter.py](scatterplots/categ
 
 -------
 
+## Quadratic Decision Boundary
+
+![scatterplots/quadratic_decision_boundary/quadratic_decision_boundary.png](scatterplots/quadratic_decision_boundary/quadratic_decision_boundary.png)
+
+Script: [scatterplots/quadratic_decision_boundary/quadratic_decision_boundary](scatterplots/quadratic_decision_boundary/quadratic_decision_boundary.py)
+
+-------
+
+<br>
+<br>
+<br>
 
 
 
 
-
-
-
-
-
-
-
-
-# Line Plots
+<a name="lineplots"></a>
+# Line plots
 
 ####Sections
 &#8226; [init_dict_1](#init_dict_1)<br>
@@ -172,7 +178,7 @@ Script: [line_plots/python_efficiency_tweaks/init_dict_1.py](line_plots/python_e
 
 
 
-
+<a name="histograms"></a>
 # Histograms
 
 ####Sections
@@ -219,8 +225,8 @@ Script: [histograms/methyl_charges/plot_methyl_charges.py](histograms/methyl_cha
 
 
 
-
-# Functions and Distributions
+<a name="functionsdistributions"></a>
+# Functions and distributions
 
 ####Sections
 &#8226; [probability_density_func](#probability_density_func)<br>

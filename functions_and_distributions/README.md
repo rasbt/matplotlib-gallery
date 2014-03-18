@@ -1,4 +1,4 @@
-# Functions and Distributions
+# Functions and distributions
 
 ####Sections
 &#8226; [probability_density_func](#probability_density_func)<br>

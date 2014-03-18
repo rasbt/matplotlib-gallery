@@ -1,4 +1,4 @@
-# Line Plots
+# Line plots
 
 ####Sections
 &#8226; [init_dict_1](#init_dict_1)<br>
