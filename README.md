@@ -53,7 +53,7 @@ Examples of matplotlib codes and plots
 <br>
 #### bar plot w. error bars - python_efficiency_tweaks
 
-![barplots/python_efficiency_tweaks/string_subst_bar.png](barplots/python_efficiency_tweaks/string_subst_bar.png =250x)
+![barplots/python_efficiency_tweaks/string_subst_bar.png](barplots/python_efficiency_tweaks/string_subst_bar.png)
 
 Script: [barplots/python_efficiency_tweaks/string_subst_bar.py](barplots/python_efficiency_tweaks/string_subst_bar.py)
 
@@ -63,7 +63,7 @@ Script: [barplots/python_efficiency_tweaks/string_subst_bar.py](barplots/python_
 <br>
 #### grouped bar plot
 
-![barplots/grouped_barplot/grouped_barplot.png](barplots/grouped_barplot/grouped_barplot.png =250x)
+![barplots/grouped_barplot/grouped_barplot.png](barplots/grouped_barplot/grouped_barplot.png)
 
 Script: [barplots/grouped_barplot/grouped_barplot.py](barplots/grouped_barplot/grouped_barplot.py)
 
@@ -94,7 +94,7 @@ Script: [barplots/grouped_barplot/grouped_barplot.py](barplots/grouped_barplot/g
 
 #### 2D Scatterplot
 
-![scatterplots/flower_data/flower_2d_scatter.png](scatterplots/flower_data/flower_2d_scatter.png =250x)
+![scatterplots/flower_data/flower_2d_scatter.png](scatterplots/flower_data/flower_2d_scatter.png)
 
 Script: [scatterplots/flower_data/flower_2d_scatter.py](scatterplots/flower_data/flower_2d_scatter.py)
 
@@ -106,7 +106,7 @@ Script: [scatterplots/flower_data/flower_2d_scatter.py](scatterplots/flower_data
 
 #### 3D Scatterplot
 
-![scatterplots/flower_data/flower_3d_scatter.png](scatterplots/flower_data/flower_3d_scatter.png =250x)
+![scatterplots/flower_data/flower_3d_scatter.png](scatterplots/flower_data/flower_3d_scatter.png)
 
 Script: [scatterplots/flower_data/flower_3d_scatter.py](scatterplots/flower_data/flower_3d_scatter.py)
 
@@ -117,7 +117,7 @@ Script: [scatterplots/flower_data/flower_3d_scatter.py](scatterplots/flower_data
 
 #### Categoric Scatterplot
 
-![scatterplots/categoric_scatter/categoric_scatter.png](scatterplots/categoric_scatter/categoric_scatter.png =250x)
+![scatterplots/categoric_scatter/categoric_scatter.png](scatterplots/categoric_scatter/categoric_scatter.png)
 
 Script: [scatterplots/categoric_scatter/categoric_scatter.py](scatterplots/categoric_scatter/categoric_scatter.py)
 
@@ -127,7 +127,7 @@ Script: [scatterplots/categoric_scatter/categoric_scatter.py](scatterplots/categ
 
 #### Quadratic Decision Boundary
 
-![scatterplots/quadratic_decision_boundary/quadratic_decision_boundary.png](scatterplots/quadratic_decision_boundary/quadratic_decision_boundary.png =250x)
+![scatterplots/quadratic_decision_boundary/quadratic_decision_boundary.png](scatterplots/quadratic_decision_boundary/quadratic_decision_boundary.png)
 
 Script: [scatterplots/quadratic_decision_boundary/quadratic_decision_boundary](scatterplots/quadratic_decision_boundary/quadratic_decision_boundary.py)
 
@@ -151,7 +151,7 @@ Script: [scatterplots/quadratic_decision_boundary/quadratic_decision_boundary](s
 
 #### python_efficiency_tweaks - init_dict.py
 
-![line_plots/python_efficiency_tweaks/init_dict_1.png](line_plots/python_efficiency_tweaks/init_dict_1.png =250x)
+![line_plots/python_efficiency_tweaks/init_dict_1.png](line_plots/python_efficiency_tweaks/init_dict_1.png)
 
 Script: [line_plots/python_efficiency_tweaks/init_dict_1.py](line_plots/python_efficiency_tweaks/init_dict_1.py)
 
@@ -180,7 +180,7 @@ Script: [line_plots/python_efficiency_tweaks/init_dict_1.py](line_plots/python_e
 
 ####flower_histo
 
-![histograms/flower_data/flower_histo.png](histograms/flower_data/flower_histo.png =250x)
+![histograms/flower_data/flower_histo.png](histograms/flower_data/flower_histo.png)
 
 Script: [histograms/flower_data/flower_histo.py](histograms/flower_data/flower_histo.py)
 
@@ -193,7 +193,7 @@ Script: [histograms/flower_data/flower_histo.py](histograms/flower_data/flower_h
 
 ####methyl_charges
 
-![histograms/methyl_charges/methyl_charges.png](histograms/methyl_charges/methyl_charges.png =250x)
+![histograms/methyl_charges/methyl_charges.png](histograms/methyl_charges/methyl_charges.png)
 
 Script: [histograms/methyl_charges/plot_methyl_charges.py](histograms/methyl_charges/plot_methyl_charges.py)
 
@@ -233,7 +233,7 @@ Script: [histograms/methyl_charges/plot_methyl_charges.py](histograms/methyl_cha
 
 #### Normal Probability Density Functions
 
-![functions_and_distributions/probability_density_func/probability_density_func.png](functions_and_distributions/probability_density_func/probability_density_func.png =250x)
+![functions_and_distributions/probability_density_func/probability_density_func.png](functions_and_distributions/probability_density_func/probability_density_func.png)
 
 Script: [functions_and_distributions/probability_density_func/probability_density_func.py](functions_and_distributions/probability_density_func/probability_density_func.py)
 
@@ -242,7 +242,7 @@ Script: [functions_and_distributions/probability_density_func/probability_densit
 <br>	
 #### Likelihood Ratio
 
-![functions_and_distributions/probability_density_func/likelihood_ratio.png](functions_and_distributions/probability_density_func/likelihood_ratio.png =250x)
+![functions_and_distributions/probability_density_func/likelihood_ratio.png](functions_and_distributions/probability_density_func/likelihood_ratio.png)
 
 Script: [functions_and_distributions/probability_density_func/likelihood_ratio.py](functions_and_distributions/probability_density_func/likelihood_ratio.py)
 
