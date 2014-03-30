@@ -25,7 +25,7 @@ plt.plot(x, pdf2)
 plt.title('Probability Density Functions')
 plt.ylabel('p(x)')
 plt.xlabel('random variable x')
-plt.legend(['pdf1 ~ N(5,2.5)', 'pdf1 ~ N(10,6)'], loc='upper right')
+plt.legend(['pdf1 ~ N(5,2.5)', 'pdf2 ~ N(10,6)'], loc='upper right')
 plt.ylim([0,0.5])
 plt.xlim([0,20])
 
