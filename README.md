@@ -13,9 +13,12 @@ Examples of matplotlib codes and plots
 
 ### [Scatter plots](#scatterplots)
 &#8226; [2D Scatterplot](#2d_scatterplot)<br>
-&#8226; [3D Scatterplot](#3d_scatterplot)<br>
-&#8226; [Categoric Scatterplot](#categoric_scatter)<br>
+&#8226; [Categorical Scatterplot](#categoric_scatter)<br>
 &#8226; [Quadratic Decision Boundary](#quadratic_decbound1)<br>
+
+### [3D Plots](#functionsdistributions)
+&#8226; [3D Scatterplot](#3d_scatterplot)<br>
+&#8226; [3D Scatterplot with Eigenvectors](#eigenvectors_3d)<br>
 
 ### [Line plots](#lineplots)
 &#8226; [init_dict_1](#init_dict_1)<br>
@@ -53,7 +56,6 @@ Examples of matplotlib codes and plots
 <br>
 #### bar plot w. error bars - python_efficiency_tweaks
 
-<img src="url" alt="alt text" style="width:whatever;height:whatever">
 ![barplots/python_efficiency_tweaks/string_subst_bar.png](barplots/python_efficiency_tweaks/string_subst_bar.png)
 
 Script: [barplots/python_efficiency_tweaks/string_subst_bar.py](barplots/python_efficiency_tweaks/string_subst_bar.py)
@@ -102,16 +104,6 @@ Script: [scatterplots/flower_data/flower_2d_scatter.py](scatterplots/flower_data
 
 
 -------
-<a name="3d_scatterplot"></a>
-<br>
-
-#### 3D Scatterplot
-
-![scatterplots/flower_data/flower_3d_scatter.png](scatterplots/flower_data/flower_3d_scatter.png)
-
-Script: [scatterplots/flower_data/flower_3d_scatter.py](scatterplots/flower_data/flower_3d_scatter.py)
-
--------
 
 <a name="categoric_scatter"></a>
 <br>
@@ -133,7 +125,35 @@ Script: [scatterplots/categoric_scatter/categoric_scatter.py](scatterplots/categ
 Script: [scatterplots/quadratic_decision_boundary/quadratic_decision_boundary](scatterplots/quadratic_decision_boundary/quadratic_decision_boundary.py)
 
 -------
+# 3D plots
 
+####Sections
+&#8226; [3D Scatterplot](#3d_scatterplot)<br>
+&#8226; [3D Scatterplot with Eigenvectors](#eigenvectors_3d)<br>
+
+-------
+<a name="3d_scatterplot"></a>
+<br>
+
+#### 3D Scatterplot
+
+![./3d_plots/flower_data/flower_3d_scatter.png](./3d_plots/flower_data/flower_3d_scatter.png)
+
+Script: [./3d_plots/flower_data/flower_3d_scatter.py](./3d_plots/flower_data/flower_3d_scatter.py)
+
+-------
+
+
+<a name="3d_scatterplot"></a>
+<br>
+
+#### 3D Scatterplot with Eigenvectors
+
+![./3d_plots/3d_eigenvectors/eigenvectors_3d.png](./3d_plots/3d_eigenvectors/eigenvectors_3d.png)
+
+Script: [./3d_plots/3d_eigenvectors/eigenvectors_3d.py](./3d_plots/3d_eigenvectors/eigenvectors_3d.py)
+
+-------
 
 
 <br>

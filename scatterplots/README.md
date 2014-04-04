@@ -2,7 +2,6 @@
 
 ####Sections
 &#8226; [2D Scatterplot](#2d_scatterplot)<br>
-&#8226; [3D Scatterplot](#3d_scatterplot)<br>
 &#8226; [Categoric Scatterplot](#categoric_scatter)<br>
 &#8226; [Quadratic Decision Boundary](#quadratic_decbound1)<br>
 
@@ -17,18 +16,6 @@
 Script: [./flower_data/flower_2d_scatter.py](./flower_data/flower_2d_scatter.py)
 
 
-
--------
-<a name="3d_scatterplot"></a>
-<br>
-
-## 3D Scatterplot
-
-![./flower_data/flower_3d_scatter.png](./flower_data/flower_3d_scatter.png)
-
-Script: [./flower_data/flower_3d_scatter.py](./flower_data/flower_3d_scatter.py)
-
--------
 
 <a name="categoric_scatter"></a>
 <br>
