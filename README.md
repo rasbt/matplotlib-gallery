@@ -144,7 +144,7 @@ Script: [./3d_plots/flower_data/flower_3d_scatter.py](./3d_plots/flower_data/flo
 -------
 
 
-<a name="3d_scatterplot"></a>
+<a name="eigenvectors_3d"></a>
 <br>
 
 #### 3D Scatterplot with Eigenvectors
