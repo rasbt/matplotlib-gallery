@@ -155,6 +155,17 @@ Script: [./3d_plots/3d_eigenvectors/eigenvectors_3d.py](./3d_plots/3d_eigenvecto
 
 -------
 
+<a name="cube_3d"></a>
+<br>
+
+## 3D Cube
+
+![./3d_plots/3d_cube/cube_3d.png](./3d_plots/3d_cube/cube_3d.png)
+
+Script: [./3d_plots/3d_cube/cube_3d.py](./3d_plots/3d_cube/cube_3d.py)
+
+-------
+
 
 <br>
 <br>

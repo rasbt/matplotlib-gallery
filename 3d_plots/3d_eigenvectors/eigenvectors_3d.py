@@ -47,7 +47,7 @@ ax = fig.add_subplot(111, projection='3d')
 
 ax.plot(samples[:,0], samples[:,1], samples[:,2], 'o', markersize=10, color='green', alpha=0.2)
 ax.plot([mean_x], [mean_y], [mean_z], 'o', markersize=10, color='red', alpha=0.5)
-for v in eig_vec:
+for v in eig_vec.T:
     a = Arrow3D([mean_x, v[0]], [mean_y, v[1]], [mean_z, v[2]], mutation_scale=20, lw=3, arrowstyle="-|>", color="r")
     ax.add_artist(a)
 ax.set_xlabel('x_values')
