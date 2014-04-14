@@ -19,6 +19,7 @@ Examples of matplotlib codes and plots
 ### [3D Plots](#functionsdistributions)
 &#8226; [3D Scatterplot](#3d_scatterplot)<br>
 &#8226; [3D Scatterplot with Eigenvectors](#eigenvectors_3d)<br>
+&#8226; [3D Cube](#cube_3d)<br>
 
 ### [Line plots](#lineplots)
 &#8226; [init_dict_1](#init_dict_1)<br>
