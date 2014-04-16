@@ -20,6 +20,7 @@ Examples of matplotlib codes and plots
 &#8226; [3D Scatterplot](#3d_scatterplot)<br>
 &#8226; [3D Scatterplot with Eigenvectors](#eigenvectors_3d)<br>
 &#8226; [3D Cube](#cube_3d)<br>
+&#8226; [Bivariate Gaussian Distribution](#bivariate_gaussian)<br>
 
 ### [Line plots](#lineplots)
 &#8226; [init_dict_1](#init_dict_1)<br>
@@ -159,11 +160,22 @@ Script: [./3d_plots/3d_eigenvectors/eigenvectors_3d.py](./3d_plots/3d_eigenvecto
 <a name="cube_3d"></a>
 <br>
 
-## 3D Cube
+#### 3D Cube
 
 ![./3d_plots/3d_cube/cube_3d.png](./3d_plots/3d_cube/cube_3d.png)
 
 Script: [./3d_plots/3d_cube/cube_3d.py](./3d_plots/3d_cube/cube_3d.py)
+
+-------
+
+<a name="bivariate_gaussian"></a>
+<br>
+
+## Bivariate Gaussian Distribution
+
+![./3d_plots/bivariate_gaussian/bivariate_gaussian.png](./3d_plots/bivariate_gaussian/bivariate_gaussian.png)
+
+Script: [./3d_plots/bivariate_gaussian/bivariate_gaussian.py](./3d_plots/bivariate_gaussian/bivariate_gaussian.py)
 
 -------
 
