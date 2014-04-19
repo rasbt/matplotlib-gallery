@@ -50,4 +50,8 @@ Script: [./3d_cube/cube_3d.py](./3d_cube/cube_3d.py)
 
 Script: [./bivariate_gaussian/bivariate_gaussian.py](./bivariate_gaussian/bivariate_gaussian.py)
 
+![./bivariate_gaussian/bivariate_gaussian_wire.png](./bivariate_gaussian/bivariate_gaussian_wire.png)
+
+Script: [./bivariate_gaussian/bivariate_gaussian_wire.py](./bivariate_gaussian/bivariate_gaussian_wire.py)
+
 -------

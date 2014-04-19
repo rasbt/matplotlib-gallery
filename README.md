@@ -177,6 +177,10 @@ Script: [./3d_plots/3d_cube/cube_3d.py](./3d_plots/3d_cube/cube_3d.py)
 
 Script: [./3d_plots/bivariate_gaussian/bivariate_gaussian.py](./3d_plots/bivariate_gaussian/bivariate_gaussian.py)
 
+![./3d_plots/bivariate_gaussian/bivariate_gaussian_wire.png](./3d_plots/bivariate_gaussian/bivariate_gaussian_wire.png)
+
+Script: [./3d_plots/bivariate_gaussian/bivariate_gaussian_wire.py](./3d_plots/bivariate_gaussian/bivariate_gaussian_wire.py)
+
 -------
 
 
