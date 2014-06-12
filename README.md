@@ -60,9 +60,7 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 <a href='http://nbviewer.ipython.org/github/rasbt/matplotlib_gallery/blob/master/ipynb/histograms.ipynb'>
-
 ![3d plots](./images/histograms.png)
-
 </a>
 
 <br>
@@ -77,9 +75,7 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 <a href='http://nbviewer.ipython.org/github/rasbt/matplotlib_gallery/blob/master/ipynb/lineplots.ipynb'>
-
 ![3d plots](./images/lineplots.png)
-
 </a>
 
 <br>
@@ -93,9 +89,7 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 <a href='http://nbviewer.ipython.org/github/rasbt/matplotlib_gallery/blob/master/ipynb/scatterplots.ipynb'>
-
 ![3d plots](./images/scatterplots.png)
-
 </a>
 
 <br>
