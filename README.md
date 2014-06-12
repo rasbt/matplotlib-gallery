@@ -23,14 +23,14 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 
+
+## [3D Plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/3dplots.ipynb?create=1)
+
+<br>
+<br>
+
 <a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/3dplots.ipynb?create=1'>
-## 3D Plots
-
-<br>
-<br>
-
 ![3d plots](./images/3dplots.png)
-
 </a>
 
 <br>
