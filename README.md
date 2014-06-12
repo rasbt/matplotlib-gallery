@@ -1,299 +1,99 @@
-matplotlib_gallery
-==================
+#matplotlib-gallery
 
-Examples of matplotlib codes and plots
+This repository is a collection of different `matplotlib` plots in IPython notebooks that I needed for my data visualizations. 
 
+This project is not connected to the gallery on [http://matplotlib.org/gallery.html](http://matplotlib.org/gallery.html), although there might be some overlap and redundancy. 
 
-<hr>
-<hr>
-
-### [Bar plots](#barplots)
-&#8226; [barplot w. error bars](#errorbars1)<br>
-&#8226; [grouped_barplot](#grouped_barplot1)<br>
-
-### [Scatter plots](#scatterplots)
-&#8226; [2D Scatterplot](#2d_scatterplot)<br>
-&#8226; [Categorical Scatterplot](#categoric_scatter)<br>
-&#8226; [Quadratic Decision Boundary](#quadratic_decbound1)<br>
-
-### [3D Plots](#functionsdistributions)
-&#8226; [3D Scatterplot](#3d_scatterplot)<br>
-&#8226; [3D Scatterplot with Eigenvectors](#eigenvectors_3d)<br>
-&#8226; [3D Cube](#cube_3d)<br>
-&#8226; [Bivariate Gaussian Distribution](#bivariate_gaussian)<br>
-
-### [Line plots](#lineplots)
-&#8226; [init_dict_1](#init_dict_1)<br>
-
-### [Histograms](#histograms)
-&#8226; [flower_histo](#flower_histo)<br>
-&#8226; [methyl_charges](#methyl_charges)<br>
-
-### [Functions and distributions](#functionsdistributions)
-&#8226; [probability_density_func](#probability_density_func)<br>
-&#8226; [likelihood_ratio](#likelihood_ratio)<br>
-
-
-<hr>
-<hr>
 <br>
 <br>
+
+#### I am looking forward to your contributions, suggestions, and ideas
+
+If you have any suggestions or want to make additions, I would be very happy if you could send me  
+
+- an [email](mailto:se.raschka@gmail.com),  
+- leave me a message on [google+](https://plus.google.com/118404394130788869227/),   
+- or even send me a tweet on [twitter](https://twitter.com/rasbt) (given you can fit it within the 140 character limit ;)).  
+
+Or even better: It would be great if you would simply fork this project and send me a pull request.
+
 <br>
 <br>
 <br>
 <br>
 
-<a name="barplots"></a>
-# Bar plots
 
-####Sections
-&#8226; [barplot w. error bars](#errorbars1)<br>
-&#8226; [grouped_barplot](#grouped_barplot1)<br>
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/3dplots.ipynb?create=1'>
+## 3D Plots
 
-
-
-
--------
-<a name="errorbars1"></a>
 <br>
-#### bar plot w. error bars - python_efficiency_tweaks
-
-![barplots/python_efficiency_tweaks/string_subst_bar.png](barplots/python_efficiency_tweaks/string_subst_bar.png)
-
-Script: [barplots/python_efficiency_tweaks/string_subst_bar.py](barplots/python_efficiency_tweaks/string_subst_bar.py)
-
-
--------
-<a name="grouped_barplot1"></a>
 <br>
-#### grouped bar plot
 
-![barplots/grouped_barplot/grouped_barplot.png](barplots/grouped_barplot/grouped_barplot.png)
+![3d plots](./images/3dplots.png)
 
-Script: [barplots/grouped_barplot/grouped_barplot.py](barplots/grouped_barplot/grouped_barplot.py)
-
------
-
-
-
-
-
-
-
+</a>
 
 <br>
 <br>
 <br>
-<a name="scatterplots"></a>
-# Scatter plots
-
-####Sections
-&#8226; [2D Scatterplot](#2d_scatterplot)<br>
-&#8226; [3D Scatterplot](#3d_scatterplot)<br>
-&#8226; [Categoric Scatterplot](#categoric_scatter)<br>
-&#8226; [Quadratic Decision Boundary](#quadratic_decbound1)<br>
-
--------
-<a name="2d_scatterplot"></a>
 <br>
 
-#### 2D Scatterplot
-
-![scatterplots/flower_data/flower_2d_scatter.png](scatterplots/flower_data/flower_2d_scatter.png)
-
-Script: [scatterplots/flower_data/flower_2d_scatter.py](scatterplots/flower_data/flower_2d_scatter.py)
-
-
-
--------
-
-<a name="categoric_scatter"></a>
-<br>
-
-#### Categoric Scatterplot
-
-![scatterplots/categoric_scatter/categoric_scatter.png](scatterplots/categoric_scatter/categoric_scatter.png)
-
-Script: [scatterplots/categoric_scatter/categoric_scatter.py](scatterplots/categoric_scatter/categoric_scatter.py)
-
--------
-<a name="quadratic_decbound1"></a>
-<br>
-
-#### Quadratic Decision Boundary
-
-![scatterplots/quadratic_decision_boundary/quadratic_decision_boundary.png](scatterplots/quadratic_decision_boundary/quadratic_decision_boundary.png)
-
-Script: [scatterplots/quadratic_decision_boundary/quadratic_decision_boundary](scatterplots/quadratic_decision_boundary/quadratic_decision_boundary.py)
-
--------
-# 3D plots
-
-####Sections
-&#8226; [3D Scatterplot](#3d_scatterplot)<br>
-&#8226; [3D Scatterplot with Eigenvectors](#eigenvectors_3d)<br>
-
--------
-<a name="3d_scatterplot"></a>
-<br>
-
-#### 3D Scatterplot
-
-![./3d_plots/flower_data/flower_3d_scatter.png](./3d_plots/flower_data/flower_3d_scatter.png)
-
-Script: [./3d_plots/flower_data/flower_3d_scatter.py](./3d_plots/flower_data/flower_3d_scatter.py)
-
--------
-
-
-<a name="eigenvectors_3d"></a>
-<br>
-
-#### 3D Scatterplot with Eigenvectors
-
-![./3d_plots/3d_eigenvectors/eigenvectors_3d.png](./3d_plots/3d_eigenvectors/eigenvectors_3d.png)
-
-Script: [./3d_plots/3d_eigenvectors/eigenvectors_3d.py](./3d_plots/3d_eigenvectors/eigenvectors_3d.py)
-
--------
-
-<a name="cube_3d"></a>
-<br>
-
-#### 3D Cube
-
-![./3d_plots/3d_cube/cube_3d.png](./3d_plots/3d_cube/cube_3d.png)
-
-Script: [./3d_plots/3d_cube/cube_3d.py](./3d_plots/3d_cube/cube_3d.py)
-
--------
-
-<a name="bivariate_gaussian"></a>
-<br>
-
-## Bivariate Gaussian Distribution
-
-![./3d_plots/bivariate_gaussian/bivariate_gaussian.png](./3d_plots/bivariate_gaussian/bivariate_gaussian.png)
-
-Script: [./3d_plots/bivariate_gaussian/bivariate_gaussian.py](./3d_plots/bivariate_gaussian/bivariate_gaussian.py)
-
-![./3d_plots/bivariate_gaussian/bivariate_gaussian_wire.png](./3d_plots/bivariate_gaussian/bivariate_gaussian_wire.png)
-
-Script: [./3d_plots/bivariate_gaussian/bivariate_gaussian_wire.py](./3d_plots/bivariate_gaussian/bivariate_gaussian_wire.py)
-
--------
-
-
-<br>
-<br>
-<br>
-<a name="lineplots"></a>
-# Line plots
-
-####Sections
-&#8226; [init_dict_1](#init_dict_1)<br>
-
-
--------
-<a name="init_dict_1"></a>
-<br>
-
-#### python_efficiency_tweaks - init_dict.py
-
-![line_plots/python_efficiency_tweaks/init_dict_1.png](line_plots/python_efficiency_tweaks/init_dict_1.png)
-
-Script: [line_plots/python_efficiency_tweaks/init_dict_1.py](line_plots/python_efficiency_tweaks/init_dict_1.py)
-
------
-
-
-
-
-
-
-<br>
-<br>
-<br>
-<a name="histograms"></a>
-# Histograms
-
-####Sections
-&#8226; [flower_histo](#flower_histo)<br>
-&#8226; [methyl_charges](#methyl_charges)<br>
-
-
-
--------
-<a name="flower_histo"></a>
-<br>
-
-####flower_histo
-
-![histograms/flower_data/flower_histo.png](histograms/flower_data/flower_histo.png)
-
-Script: [histograms/flower_data/flower_histo.py](histograms/flower_data/flower_histo.py)
-
-
-
-
--------
-<a name="methyl_charges"></a>
-<br>
-
-####methyl_charges
-
-![histograms/methyl_charges/methyl_charges.png](histograms/methyl_charges/methyl_charges.png)
-
-Script: [histograms/methyl_charges/plot_methyl_charges.py](histograms/methyl_charges/plot_methyl_charges.py)
-
--------
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-<br>
-<br>
-<a name="functionsdistributions"></a>
-# Functions and distributions
-
-####Sections
-&#8226; [probability_density_func](#probability_density_func)<br>
-&#8226; [likelihood_ratio](#likelihood_ratio)<br>
-
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/barplots.ipynb?create=1'>
+## Bar plots
 
 <br>
 <br>
 
+![3d plots](./images/barplots.png)
 
+</a>
 
------
-<a name="probability_density_func"></a>
+<br>
+<br>
+<br>
 <br>
 
-#### Normal Probability Density Functions
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/histograms.ipynb?create=1'>
+## Histograms
 
-![functions_and_distributions/probability_density_func/probability_density_func.png](functions_and_distributions/probability_density_func/probability_density_func.png)
+<br>
+<br>
 
-Script: [functions_and_distributions/probability_density_func/probability_density_func.py](functions_and_distributions/probability_density_func/probability_density_func.py)
+![3d plots](./images/histograms.png)
 
------
-<a name="likelihood_ratio"></a>
-<br>	
-#### Likelihood Ratio
+</a>
 
-![functions_and_distributions/probability_density_func/likelihood_ratio.png](functions_and_distributions/probability_density_func/likelihood_ratio.png)
+<br>
+<br>
+<br>
+<br>
 
-Script: [functions_and_distributions/probability_density_func/likelihood_ratio.py](functions_and_distributions/probability_density_func/likelihood_ratio.py)
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/lineplots.ipynb?create=1'>
+## Line plots
 
+<br>
+<br>
 
------
+![3d plots](./images/lineplots.png)
+
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/scatterplots.ipynb?create=1'>
+## Scatter plots
+
+<br>
+<br>
+
+![3d plots](./images/scatterplots.png)
+
+</a>
+
+<br>
+<br>
+<br>
+<br>
