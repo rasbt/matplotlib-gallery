@@ -24,12 +24,12 @@ Or even better: It would be great if you would simply fork this project and send
 
 
 
-## [3D Plots](http://nbviewer.ipython.org/github/rasbt/matplotlib_gallery/blob/master/ipynb/3dplots.ipynb)
+## [3D Plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/3dplots.ipynb)
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib_gallery/blob/master/ipynb/3dplots.ipynb'>
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/3dplots.ipynb'>
 ![3d plots](./images/3dplots.png)
 </a>
 
@@ -39,12 +39,12 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 
-## [Bar plots](http://nbviewer.ipython.org/github/rasbt/matplotlib_gallery/blob/master/ipynb/barplots.ipynb)
+## [Bar plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/barplots.ipynb)
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib_gallery/blob/master/ipynb/barplots.ipynb'>
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/barplots.ipynb'>
 ![3d plots](./images/barplots.png)
 </a>
 
@@ -54,12 +54,12 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 
-## [Histograms](http://nbviewer.ipython.org/github/rasbt/matplotlib_gallery/blob/master/ipynb/histograms.ipynb)
+## [Histograms](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/histograms.ipynb)
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib_gallery/blob/master/ipynb/histograms.ipynb'>
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/histograms.ipynb'>
 ![3d plots](./images/histograms.png)
 </a>
 
@@ -69,12 +69,12 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 
-## [Line plots](http://nbviewer.ipython.org/github/rasbt/matplotlib_gallery/blob/master/ipynb/lineplots.ipynb)
+## [Line plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/lineplots.ipynb)
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib_gallery/blob/master/ipynb/lineplots.ipynb'>
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/lineplots.ipynb'>
 ![3d plots](./images/lineplots.png)
 </a>
 
@@ -83,12 +83,12 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 <br>
 
-## [Scatter plots](http://nbviewer.ipython.org/github/rasbt/matplotlib_gallery/blob/master/ipynb/scatterplots.ipynb)
+## [Scatter plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/scatterplots.ipynb)
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib_gallery/blob/master/ipynb/scatterplots.ipynb'>
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/scatterplots.ipynb'>
 ![3d plots](./images/scatterplots.png)
 </a>
 
