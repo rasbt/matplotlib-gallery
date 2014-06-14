@@ -53,6 +53,20 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 <br>
 
+## [Boxplots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/boxplots.ipynb)
+
+<br>
+<br>
+
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/barplots.ipynb'>
+![3d plots](./images/boxplots.png)
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
 
 ## [Histograms](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/histograms.ipynb)
 
