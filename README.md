@@ -28,7 +28,7 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/scatterplots.ipynb'>
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/heatmaps.ipynb'>
 ![3d plots](./images/heatmaps.png)
 </a>
 
