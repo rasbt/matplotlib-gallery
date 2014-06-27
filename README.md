@@ -23,6 +23,20 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 
+## [2D histograms / heat maps / levelplots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/heatmaps.ipynb)
+
+<br>
+<br>
+
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/scatterplots.ipynb'>
+![3d plots](./images/heatmaps.png)
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
 
 ## [3D Plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/3dplots.ipynb)
 
@@ -110,3 +124,4 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 <br>
 <br>
+
