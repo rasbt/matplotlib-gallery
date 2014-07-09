@@ -4,13 +4,13 @@ This repository is a collection of different `matplotlib` plots in IPython noteb
 
 This project is not connected to the gallery on [http://matplotlib.org/gallery.html](http://matplotlib.org/gallery.html), although there might be some overlap and redundancy. 
 
-- [2D histograms / heat maps / levelplots](https://github.com/rasbt/matplotlib-gallery#2d-histograms--heat-maps--levelplots)
-- [3D Plots](https://github.com/rasbt/matplotlib-gallery#3d-plots)
-- [Bar plots](https://github.com/rasbt/matplotlib-gallery#bar-plots)
-- [Boxplots](https://github.com/rasbt/matplotlib-gallery#boxplots)
-- [Histograms](https://github.com/rasbt/matplotlib-gallery#histograms)
-- [Line plots](https://github.com/rasbt/matplotlib-gallery#line-plots)
-- [Scatter plots](https://github.com/rasbt/matplotlib-gallery#scatter-plots)
+- [2D histograms / heat maps / levelplots](#2d-histograms--heat-maps--levelplots)
+- [3D Plots](#3d-plots)
+- [Bar plots](#bar-plots)
+- [Boxplots](#boxplots)
+- [Histograms](#histograms)
+- [Line plots](#line-plots)
+- [Scatter plots](#scatter-plots)
 
 <br>
 <br>
