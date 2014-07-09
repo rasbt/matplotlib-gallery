@@ -4,6 +4,14 @@ This repository is a collection of different `matplotlib` plots in IPython noteb
 
 This project is not connected to the gallery on [http://matplotlib.org/gallery.html](http://matplotlib.org/gallery.html), although there might be some overlap and redundancy. 
 
+- [2D histograms / heat maps / levelplots](https://github.com/rasbt/matplotlib-gallery#2d-histograms--heat-maps--levelplots)
+- [3D Plots](https://github.com/rasbt/matplotlib-gallery#3d-plots)
+- [Bar plots](https://github.com/rasbt/matplotlib-gallery#bar-plots)
+- [Boxplots](https://github.com/rasbt/matplotlib-gallery#boxplots)
+- [Histograms](https://github.com/rasbt/matplotlib-gallery#histograms)
+- [Line plots](https://github.com/rasbt/matplotlib-gallery#line-plots)
+- [Scatter plots](https://github.com/rasbt/matplotlib-gallery#scatter-plots)
+
 <br>
 <br>
 
@@ -25,6 +33,8 @@ Or even better: It would be great if you would simply fork this project and send
 
 ## [2D histograms / heat maps / levelplots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/heatmaps.ipynb)
 
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
 <br>
 <br>
 
@@ -39,6 +49,8 @@ Or even better: It would be great if you would simply fork this project and send
 
 
 ## [3D Plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/3dplots.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
 <br>
 <br>
@@ -55,6 +67,8 @@ Or even better: It would be great if you would simply fork this project and send
 
 ## [Bar plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/barplots.ipynb)
 
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
 <br>
 <br>
 
@@ -68,6 +82,8 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 ## [Boxplots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/boxplots.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
 <br>
 <br>
@@ -84,6 +100,8 @@ Or even better: It would be great if you would simply fork this project and send
 
 ## [Histograms](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/histograms.ipynb)
 
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
 <br>
 <br>
 
@@ -99,6 +117,8 @@ Or even better: It would be great if you would simply fork this project and send
 
 ## [Line plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/lineplots.ipynb)
 
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
 <br>
 <br>
 
@@ -112,6 +132,8 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 ## [Scatter plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/scatterplots.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
 <br>
 <br>
