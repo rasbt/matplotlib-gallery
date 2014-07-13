@@ -8,6 +8,7 @@ This project is not connected to the gallery on [http://matplotlib.org/gallery.h
 - [3D Plots](#3d-plots)
 - [Bar plots](#bar-plots)
 - [Boxplots](#boxplots)
+- [Formatting](#formatting)
 - [Histograms](#histograms)
 - [Line plots](#line-plots)
 - [Scatter plots](#scatter-plots)
@@ -90,6 +91,23 @@ Or even better: It would be great if you would simply fork this project and send
 
 <a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/boxplots.ipynb'>
 ![3d plots](./images/boxplots.png)
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
+
+## [Formatting](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting.ipynb'>
+![3d plots](./images/formatting.png)
 </a>
 
 <br>
