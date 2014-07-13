@@ -12,6 +12,7 @@ This project is not connected to the gallery on [http://matplotlib.org/gallery.h
 - [Histograms](#histograms)
 - [Line plots](#line-plots)
 - [Scatter plots](#scatter-plots)
+- [Triangulation](#triangulation)
 
 <br>
 <br>
@@ -165,3 +166,18 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 <br>
 
+## [Special plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/specialplots.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/specialplots.ipynb'>
+![3d plots](./images/specialplots.png)
+</a>
+
+<br>
+<br>
+<br>
+<br>
