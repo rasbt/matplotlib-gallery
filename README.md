@@ -4,10 +4,15 @@ This repository is a collection of different `matplotlib` plots in IPython noteb
 
 This project is not connected to the gallery on [http://matplotlib.org/gallery.html](http://matplotlib.org/gallery.html), although there might be some overlap and redundancy. 
 
+**To view the IPython notebooks, simply clock on the header links or images.**
+
+### Sections
+
 - [2D histograms / heat maps / levelplots](#2d-histograms--heat-maps--levelplots)
 - [3D Plots](#3d-plots)
 - [Bar plots](#bar-plots)
 - [Boxplots](#boxplots)
+- [Errorbar plots](#errorbar-plots)
 - [Formatting](#formatting)
 - [Histograms](#histograms)
 - [Line plots](#line-plots)
@@ -92,6 +97,22 @@ Or even better: It would be great if you would simply fork this project and send
 
 <a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/boxplots.ipynb'>
 ![3d plots](./images/boxplots.png)
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
+## [Errorbar plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/errorbars.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/errorbars.ipynb'>
+![3d plots](./images/errorbars.png)
 </a>
 
 <br>
