@@ -16,6 +16,7 @@ This project is not connected to the gallery on [http://matplotlib.org/gallery.h
 - [Formatting](#formatting)
 - [Histograms](#histograms)
 - [Line plots](#line-plots)
+- [Preparing Plots for Publication](#preparing-plots-for-publication)
 - [Scatter plots](#scatter-plots)
 - [Triangulation](#triangulation)
 
@@ -171,15 +172,34 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 <br>
 
-## [Scatter plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/scatterplots.ipynb)
+
+## [Line plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/lineplots.ipynb)
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/scatterplots.ipynb'>
-![3d plots](./images/scatterplots.png)
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/lineplots.ipynb'>
+![3d plots](./images/lineplots.png)
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+## [Preparing Plots for Publication](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/publication.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/publication.ipynb'>
+![Publication plots](./images/publication.png)
 </a>
 
 <br>
