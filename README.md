@@ -18,7 +18,7 @@ This project is not connected to the gallery on [http://matplotlib.org/gallery.h
 - [Line plots](#line-plots)
 - [Preparing Plots for Publication](#preparing-plots-for-publication)
 - [Scatter plots](#scatter-plots)
-- [Triangulation](#triangulation)
+- [Special plots](#special-plots)
 
 <br>
 <br>
