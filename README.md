@@ -207,6 +207,22 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 <br>
 
+## [Scatter Plots ](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/scatterplots.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/scatterplots.ipynb'>
+![Publication plots](./images/scatterplots.png)
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
 ## [Special plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/specialplots.ipynb)
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
