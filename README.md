@@ -11,9 +11,10 @@ This project is not connected to the gallery on [http://matplotlib.org/gallery.h
 - [2D histograms / heat maps / levelplots](#2d-histograms--heat-maps--levelplots)
 - [3D Plots](#3d-plots)
 - [Bar plots](#bar-plots)
-- [Boxplots](#boxplots)
+- [Boxplots and Violinplots](#boxplots-and-violinplots)
 - [Errorbar plots](#errorbar-plots)
-- [Formatting](#formatting)
+- [Formatting I: subplots, markers, colors, axes](#formatting-i)
+- [Formatting II: gridlines](#formatting-i)
 - [Histograms](#histograms)
 - [Line plots](#line-plots)
 - [Preparing Plots for Publication](#preparing-plots-for-publication)
@@ -90,7 +91,7 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 <br>
 
-## [Boxplots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/boxplots.ipynb)
+## [Boxplots and Violinplots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/boxplots.ipynb)
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
@@ -123,15 +124,31 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 
-## [Formatting](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting.ipynb)
+## [Formatting I: subplots, markers, colors, axes](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_1.ipynb)
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting.ipynb'>
-![3d plots](./images/formatting.png)
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_1.ipynb'>
+![](./images/formatting_1.png)
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
+## [Formatting II: gridlines](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_2.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_2.ipynb'>
+![](./images/formatting_2.png)
 </a>
 
 <br>
