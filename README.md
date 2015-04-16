@@ -260,14 +260,14 @@ Or even better: It would be great if you would simply fork this project and send
 
 
 
-## [Clustering - Heatmaps and Dendrograms](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/specialplots.ipynb)
+## [Clustering - Heatmaps and Dendrograms](http://nbviewer.ipython.org/github/rasbt/pattern_classification/blob/master/clustering/hierarchical/clust_complete_linkage.ipynb)
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/specialplots.ipynb'>
+<a href='http://nbviewer.ipython.org/github/rasbt/pattern_classification/blob/master/clustering/hierarchical/clust_complete_linkage.ipynb'>
 ![3d plots](./images/heat_dendro.png)
 </a>
 
