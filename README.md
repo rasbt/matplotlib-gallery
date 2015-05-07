@@ -4,7 +4,7 @@ This repository is a collection of different `matplotlib` plots in IPython noteb
 
 This project is not connected to the gallery on [http://matplotlib.org/gallery.html](http://matplotlib.org/gallery.html), although there might be some overlap and redundancy. 
 
-**To view the IPython notebooks, simply clock on the header links or images.**
+**To view the IPython notebooks, simply click on the header links or images.**
 
 ### Sections
 
