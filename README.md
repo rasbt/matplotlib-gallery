@@ -30,7 +30,7 @@ This project is not connected to the gallery on [http://matplotlib.org/gallery.h
 If you have any suggestions or want to make additions, I would be very happy if you could send me  
 
 - an [email](mailto:se.raschka@gmail.com),  
-- leave me a message on [google+](https://plus.google.com/118404394130788869227/),   
+- leave me a message on [google+](https://plus.google.com/u/0/+SebastianRaschka),   
 - or even send me a tweet on [twitter](https://twitter.com/rasbt) (given you can fit it within the 140 character limit ;)).  
 
 Or even better: It would be great if you would simply fork this project and send me a pull request.
@@ -149,6 +149,22 @@ Or even better: It would be great if you would simply fork this project and send
 
 <a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_2.ipynb'>
 ![](./images/formatting_2.png)
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
+## [Formatting III: What it takes to become a legend](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_3.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_3.ipynb'>
+![](./images/formatting_3.png)
 </a>
 
 <br>
