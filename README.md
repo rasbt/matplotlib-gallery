@@ -21,7 +21,8 @@ This project is not connected to the gallery on [http://matplotlib.org/gallery.h
 - [Preparing Plots for Publication](#preparing-plots-for-publication)
 - [Scatter plots](#scatter-plots)
 - [Special plots](#special-plots)
-- [Clustering - Heatmaps and Dendrograms](#Clustering---Heatmaps-and-Dendrograms)
+- [Clustering - Heatmaps and Dendrograms](#clustering---heatmaps-and-dendrograms)
+- [Tips and Tricks](#tips-and-tricks)
 
 <br>
 <br>
@@ -287,6 +288,22 @@ Or even better: It would be great if you would simply fork this project and send
 <a href='http://nbviewer.ipython.org/github/rasbt/pattern_classification/blob/master/clustering/hierarchical/clust_complete_linkage.ipynb'>
 ![3d plots](./images/heat_dendro.png)
 </a>
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+## [Tips and Tricks](http://nbviewer.ipython.org/github/rasbt/pattern_classification/blob/master/clustering/hierarchical/tricks.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+
 
 <br>
 <br>
