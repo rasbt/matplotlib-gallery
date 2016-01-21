@@ -43,15 +43,85 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 
-## [2D histograms / heat maps / levelplots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/heatmaps.ipynb)
+## [2D histograms / heat maps / levelplots](./ipynb/heatmaps.ipynb)
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/heatmaps.ipynb'>
-![3d plots](./images/heatmaps.png)
+<a href='./ipynb/heatmaps.ipynb'>
+![](./images/heatmaps.png)
+</a>
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/heatmaps.ipynb)][[GitHub Rendering](./ipynb/heatmaps.ipynb)]
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+## [3D Plots](./ipynb/3dplots.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='./ipynb/3dplots.ipynb'>
+![](./images/3dplots.png)
+</a>
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/3dplots.ipynb)][[GitHub Rendering](./ipynb/3dplots.ipynb)]
+<br>
+<br>
+<br>
+<br>
+
+
+## [Bar plots](./ipynb/barplots.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='./ipynb/barplots.ipynb'>
+![](./images/barplots.png)
+</a>
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/barplots.ipynb)][[GitHub Rendering](./ipynb/barplots.ipynb)]
+<br>
+<br>
+<br>
+<br>
+
+## [Boxplots and Violinplots](./ipynb/boxplots.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='./ipynb/boxplots.ipynb'>
+![](./images/boxplots.png)
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/boxplots.ipynb)][[GitHub Rendering](./ipynb/boxplots.ipynb)]
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
+## [Errorbar plots](./ipynb/errorbars.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='./ipynb/errorbars.ipynb'>
+![](./images/errorbars.png)
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/errorbars.ipynb)][[GitHub Rendering](./ipynb/errorbars.ipynb)]
 </a>
 
 <br>
@@ -60,81 +130,16 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 
-## [3D Plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/3dplots.ipynb)
+## [Formatting I: subplots, markers, colors, axes](./ipynb/formatting_1.ipynb)
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/3dplots.ipynb'>
-![3d plots](./images/3dplots.png)
-</a>
-
-<br>
-<br>
-<br>
-<br>
-
-
-## [Bar plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/barplots.ipynb)
-
-[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
-
-<br>
-<br>
-
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/barplots.ipynb'>
-![3d plots](./images/barplots.png)
-</a>
-
-<br>
-<br>
-<br>
-<br>
-
-## [Boxplots and Violinplots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/boxplots.ipynb)
-
-[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
-
-<br>
-<br>
-
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/boxplots.ipynb'>
-![3d plots](./images/boxplots.png)
-</a>
-
-<br>
-<br>
-<br>
-<br>
-
-## [Errorbar plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/errorbars.ipynb)
-
-[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
-
-<br>
-<br>
-
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/errorbars.ipynb'>
-![3d plots](./images/errorbars.png)
-</a>
-
-<br>
-<br>
-<br>
-<br>
-
-
-## [Formatting I: subplots, markers, colors, axes](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_1.ipynb)
-
-[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
-
-<br>
-<br>
-
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_1.ipynb'>
+<a href='./ipynb/formatting_1.ipynb'>
 ![](./images/formatting_1.png)
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_1.ipynb)][[GitHub Rendering](./ipynb/formatting_1.ipynb)]
 </a>
 
 <br>
@@ -142,15 +147,16 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 <br>
 
-## [Formatting II: gridlines](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_2.ipynb)
+## [Formatting II: gridlines](./ipynb/formatting_2.ipynb)
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_2.ipynb'>
+<a href='./ipynb/formatting_2.ipynb'>
 ![](./images/formatting_2.png)
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_2.ipynb)][[GitHub Rendering](./ipynb/formatting_2.ipynb)]
 </a>
 
 <br>
@@ -158,15 +164,16 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 <br>
 
-## [Formatting III: What it takes to become a legend](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_3.ipynb)
+## [Formatting III: What it takes to become a legend](./ipynb/formatting_3.ipynb)
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_3.ipynb'>
+<a href='./ipynb/formatting_3.ipynb'>
 ![](./images/formatting_3.png)
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_3.ipynb)][[GitHub Rendering](./ipynb/formatting_3.ipynb)]
 </a>
 
 <br>
@@ -175,15 +182,16 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 
-## [Histograms](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/histograms.ipynb)
+## [Histograms](./ipynb/histograms.ipynb)
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/histograms.ipynb'>
-![3d plots](./images/histograms.png)
+<a href='./ipynb/histograms.ipynb'>
+![](./images/histograms.png)
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/histograms.ipynb)][[GitHub Rendering](./ipynb/histograms.ipynb)]
 </a>
 
 <br>
@@ -192,15 +200,16 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 
-## [Line plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/lineplots.ipynb)
+## [Line plots](./ipynb/lineplots.ipynb)
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/lineplots.ipynb'>
-![3d plots](./images/lineplots.png)
+<a href='./ipynb/lineplots.ipynb'>
+![](./images/lineplots.png)
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/lineplots.ipynb)][[GitHub Rendering](./ipynb/lineplots.ipynb)]
 </a>
 
 <br>
@@ -209,65 +218,16 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 
-## [Line plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/lineplots.ipynb)
+## [Line plots](./ipynb/lineplots.ipynb)
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/lineplots.ipynb'>
-![3d plots](./images/lineplots.png)
-</a>
-
-<br>
-<br>
-<br>
-<br>
-
-
-
-## [Preparing Plots for Publication](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/publication.ipynb)
-
-[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
-
-<br>
-<br>
-
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/publication.ipynb'>
-![Publication plots](./images/publication.png)
-</a>
-
-<br>
-<br>
-<br>
-<br>
-
-## [Scatter plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/scatterplots.ipynb)
-
-[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
-
-<br>
-<br>
-
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/scatterplots.ipynb'>
-![Publication plots](./images/scatterplots.png)
-</a>
-
-<br>
-<br>
-<br>
-<br>
-
-## [Special plots](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/specialplots.ipynb)
-
-[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
-
-<br>
-<br>
-
-<a href='http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/specialplots.ipynb'>
-![3d plots](./images/specialplots.png)
+<a href='./ipynb/lineplots.ipynb'>
+![](./images/lineplots.png)
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/lineplots.ipynb)][[GitHub Rendering](./ipynb/lineplots.ipynb)]
 </a>
 
 <br>
@@ -277,16 +237,50 @@ Or even better: It would be great if you would simply fork this project and send
 
 
 
-
-## [Clustering - Heatmaps and Dendrograms](http://nbviewer.ipython.org/github/rasbt/pattern_classification/blob/master/clustering/hierarchical/clust_complete_linkage.ipynb)
+## [Preparing Plots for Publication](./ipynb/publication.ipynb)
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
 <br>
 <br>
 
-<a href='http://nbviewer.ipython.org/github/rasbt/pattern_classification/blob/master/clustering/hierarchical/clust_complete_linkage.ipynb'>
-![3d plots](./images/heat_dendro.png)
+<a href='./ipynb/publication.ipynb'>
+![](./images/publication.png)
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/publication.ipynb)][[GitHub Rendering](./ipynb/publication.ipynb)]
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
+## [Scatter plots](./ipynb/scatterplots.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='./ipynb/scatterplots.ipynb'>
+![](./images/scatterplots.png)
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/scatterplots.ipynb)][[GitHub Rendering](./ipynb/scatterplots.ipynb)]
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
+## [Special plots](./ipynb/specialplots.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='./ipynb/specialplots.ipynb'>
+![](./images/specialplots.png)
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/specialplots.ipynb)][[GitHub Rendering](./ipynb/specialplots.ipynb)]
 </a>
 
 <br>
@@ -296,9 +290,31 @@ Or even better: It would be great if you would simply fork this project and send
 
 
 
-## [Tips and Tricks](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/tricks.ipynb)
+
+## [Clustering - Heatmaps and Dendrograms](./ipynb/clust_complete_linkage.ipynb)
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='./ipynb/clust_complete_linkage.ipynb'>
+![](./images/heat_dendro.png)
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/clust_complete_linkage.ipynb)][[GitHub Rendering](./ipynb/clust_complete_linkage.ipynb)]
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+## [Tips and Tricks](./ipynb/tricks.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/tricks.ipynb)][[GitHub Rendering](./ipynb/tricks.ipynb)]
 
 <br>
 <br>
