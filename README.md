@@ -16,6 +16,7 @@ This project is not connected to the gallery on [http://matplotlib.org/gallery.h
 - [Formatting I: subplots, markers, colors, axes](#formatting-i-subplots-markers-colors-axes)
 - [Formatting II: gridlines](#formatting-ii-gridlines)
 - [Formatting III: legends](#formatting-iii-what-it-takes-to-become-a-legend)
+- [Formatting IV: style sheets](#formatting-iv-style-sheets)
 - [Histograms](#histograms)
 - [Line plots](#line-plots)
 - [Preparing Plots for Publication](#preparing-plots-for-publication)
@@ -165,6 +166,25 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 ## [Formatting III: What it takes to become a legend](./ipynb/formatting_3.ipynb)
+
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
+<br>
+<br>
+
+<a href='./ipynb/formatting_3.ipynb'>
+![](./images/formatting_3.png)
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_3.ipynb)][[GitHub Rendering](./ipynb/formatting_3.ipynb)]
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
+## [Formatting IV: Style Sheets](./ipynb/formatting_4.ipynb)
+
+![](./images/formatting_4.png)
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
