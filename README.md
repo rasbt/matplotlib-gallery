@@ -184,9 +184,11 @@ Or even better: It would be great if you would simply fork this project and send
 
 ## [Formatting IV: Style Sheets](./ipynb/formatting_4.ipynb)
 
+[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
 ![](./images/formatting_4.png)
 
-[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+[[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_4.ipynb)][[GitHub Rendering](./ipynb/formatting_4.ipynb)]
 
 <br>
 <br>
