@@ -51,9 +51,8 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 <br>
 
-<a href='./ipynb/heatmaps.ipynb'>
-![](./images/heatmaps.png)
-</a>
+<a href='./ipynb/heatmaps.ipynb'>![](./images/heatmaps.png)</a>
+
 [[NBViewer](http://nbviewer.ipython.org/github/rasbt/matplotlib-gallery/blob/master/ipynb/heatmaps.ipynb)][[GitHub Rendering](./ipynb/heatmaps.ipynb)]
 
 
