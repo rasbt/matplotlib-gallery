@@ -1,4 +1,4 @@
-#matplotlib-gallery
+# matplotlib-gallery
 
 This repository is a collection of different `matplotlib` plots in IPython notebooks that I needed for my data visualizations.
 
