@@ -79,6 +79,7 @@ Or even better: It would be great if you would simply fork this project and send
 
 
 ## [Bar plots](./ipynb/barplots.ipynb)
+Hey you can also add subplot in bars thats looks so amazing
 
 [[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
 
